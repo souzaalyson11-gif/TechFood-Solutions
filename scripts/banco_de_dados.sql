@@ -42,7 +42,7 @@ CREATE TABLE pedidos (
 
 -- 2. POPULAÇÃO INICIAL DE TESTE (DML)
 
-INSERT INTO estoque (nome_insumo, quantidade_disponivel, quantity_minima, unidade_medida) VALUES
+INSERT INTO estoque (nome_insumo, quantidade_disponivel, quantidade_minima, unidade_medida) VALUES
 ('Carne de Hambúrguer', 50.00, 10.00, 'un'),
 ('Pão de Hambúrguer', 60.00, 12.00, 'un'),
 ('Queijo Prato', 5.00, 1.00, 'kg');
