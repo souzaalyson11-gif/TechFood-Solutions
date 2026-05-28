@@ -1,7 +1,1 @@
-[2026-05-27 21:00:01] INFO: Inicializando servidor Node.js...
-[2026-05-27 21:00:03] INFO: Carregando variáveis de ambiente do arquivo .env
-[2026-05-27 21:00:04] INFO: Conectando ao Banco de Dados PostgreSQL (techfood_db)...
-[2026-05-27 21:00:06] SUCCESS: Conexão com o banco de dados estabelecida com sucesso!
-[2026-05-27 21:00:06] SUCCESS: Servidor TechFood-Solutions ativo na porta 3000.
-[2026-05-27 21:05:42] API_LOG: POST /api/usuarios/cadastro - Status 201 Created - IP: 127.0.0.1
-[2026-05-27 21:06:15] API_LOG: POST /api/usuarios/login - Status 401 Unauthorized - IP: 127.0.0.1
+
