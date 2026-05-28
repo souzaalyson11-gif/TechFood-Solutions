@@ -66,7 +66,7 @@ Certifique-se de ter instalado e configurado no sistema operacional:
 Abaixo está consolidado o painel visual com as evidências do funcionamento, estrutura do repositório, documentação e artefatos técnicos desenvolvidos para o sistema **TechFood-Solutions**.
 
 <p align="center">
-  <img src="painel-evidencias.jpg" alt="Painel Consolidado de Evidências" width="100%">
+  <img src="painel-evidencias.png" alt="Painel Consolidado de Evidências" width="100%">
 </p>
 
 
