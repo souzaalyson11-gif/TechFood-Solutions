@@ -63,12 +63,17 @@ Certifique-se de ter instalado e configurado no sistema operacional:
 
 ## 14. EVIDÊNCIAS DE IMPLEMENTAÇÃO E LOGS
 
-A tabela abaixo compõe a seção de auditoria e validação da entrega parcial, listando os logs gerados pelo sistema e os testes de endpoints realizados até o momento.
+Abaixo está consolidado o painel visual com as evidências do funcionamento, estrutura do repositório, documentação e artefatos técnicos desenvolvidos para o sistema **TechFood-Solutions**.
+
+<p align="center">
+  <img src="painel-evidencias.jpg" alt="Painel Consolidado de Evidências" width="100%">
+</p>
 
 
-| ID | Cenário / Componente Avaliado | Status do Teste | Evidência Técnica / Log do Sistema |
+| ID | Cenário / Componente Avaliado | Status do Teste | Evidência Técnica |
 | :--- | :--- | :--- | :--- |
-| **EVID-01** | Inicialização do ambiente Node.js via terminal |  Sucesso | `[Log] Servidor Node.js iniciado e aguardando requisições na porta 3000...` |
-| **EVID-02** | Teste de conexão integrada com o PostgreSQL |  Sucesso | `[Log] Pool de conexões ativo. Conectado ao banco 'techfood_db' com sucesso.` |
-| **EVID-03** | Validação da rota de cadastro de novos usuários |  Sucesso | `[API] POST /api/usuarios/cadastro - Status 201 Created (Objeto salvo no banco)` |
-| **EVID-04** | Bloqueio de login com credenciais incorretas |  Sucesso | `[API] POST /api/usuarios/login - Status 401 Unauthorized (Senha inválida)` |
+| **EVID-01** | Estrutura e Organização do Repositório Git |  Sucesso | Conforme painel visual (Evidência 1) |
+| **EVID-02** | Fundamentação Teórica e Revisão Técnica |  Sucesso | Conforme painel visual (Evidência 2 e 5) |
+| **EVID-03** | Métricas de Resultados e Tabelas Consolidadas |  Sucesso | Conforme painel visual (Evidência 3) |
+| **EVID-04** | Scripts SQL de Análise e Artefatos Técnicos |  Sucesso | Conforme painel visual (Evidência 4) |
+| **EVID-05** | Alinhamento de Escopo e README do Projeto |  Sucesso | Conforme painel visual (Evidência 6) |
