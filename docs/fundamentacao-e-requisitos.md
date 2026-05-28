@@ -1,5 +1,3 @@
----
-
 ## 5. FUNDAMENTAÇÃO TEÓRICA
 
 O desenvolvimento do sistema **TechFood-Solutions** fundamenta-se em três pilares principais: a arquitetura de sistemas web, a engenharia de requisitos para a garantia de qualidade de software, e a administração de recursos voltada ao controle de estoque logístico.
