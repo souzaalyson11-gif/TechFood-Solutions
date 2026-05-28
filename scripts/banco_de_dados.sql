@@ -1,7 +1,5 @@
--- =========================================================================
 -- PROJETO INTEGRADO: TECHFOOD-SOLUTIONS
 -- ARTEFATO TÉCNICO: SCRIPT DE MODELAGEM E CONSULTAS DE BANCO DE DADOS (SQL)
--- =========================================================================
 
 -- 1. CRIAÇÃO DAS TABELAS (DDL)
 
@@ -42,7 +40,6 @@ CREATE TABLE pedidos (
     valor_total DECIMAL(10,2) NOT NULL
 );
 
--- =========================================================================
 -- 2. POPULAÇÃO INICIAL DE TESTE (DML)
 
 INSERT INTO estoque (nome_insumo, quantidade_disponivel, quantity_minima, unidade_medida) VALUES
@@ -58,7 +55,6 @@ INSERT INTO usuarios (nome, email, senha, tipo_usuario) VALUES
 ('Carlos Silva', 'carlos@email.com', 'senha123', 'cliente'),
 ('Gerente TechFood', 'gerente@techfood.com', 'admin321', 'administrador');
 
--- =========================================================================
 -- 3. SCRIPT DE SIMULAÇÃO DE LOG E REQUISITOS (Consultas Funcionais)
 
 -- Consulta para o painel do cliente acompanhar o status do pedido
